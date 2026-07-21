@@ -1,4 +1,4 @@
-# 🚀 Polished CRM - Customer Relationship Management System
+# 🚀 CRM - Customer Relationship Management System
 
 A full-stack, modern **Customer Relationship Management (CRM)** platform built with cutting-edge web technologies. Polished CRM empowers businesses to manage customer relationships, sales pipelines, leads, orders, payments, and business activities efficiently. It features an AI-powered CRM Assistant that helps users retrieve data through natural language queries.
 
