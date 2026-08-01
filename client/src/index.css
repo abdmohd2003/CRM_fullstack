@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+@theme {
+  /* Primary - Purple */
+  --color-primary: #534AB7;
+  --color-primary-light: #EEEDFE;
+  --color-primary-dark: #3C3489;
+  --color-primary-hover: #4840a0;
+
+  /* Sidebar */
+  --color-sidebar-bg: #1a1a2e;
+  --color-sidebar-text: #ffffff;
+  --color-sidebar-active: #534AB7;
+
+  /* Background */
+  --color-bg-page: #f4f4f6;
+  --color-bg-card: #ffffff;
+
+  /* Text */
+  --color-text-main: #1a1a1a;
+  --color-text-muted: #6b7280;
+  --color-text-light: #9ca3af;
+
+  /* Border */
+  --color-border: #e5e7eb;
+  --color-border-dark: #d1d5db;
+
+  /* Status - Badge colors */
+  --color-success: #1D9E75;
+  --color-success-bg: #E1F5EE;
+  --color-warning: #BA7517;
+  --color-warning-bg: #FAEEDA;
+  --color-danger: #E24B4A;
+  --color-danger-bg: #FCEBEB;
+  --color-info: #185FA5;
+  --color-info-bg: #E6F1FB;
+
+  /* Table */
+  --color-table-header: #f9fafb;
+  --color-table-row-hover: #f5f5ff;
+}
