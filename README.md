@@ -315,7 +315,7 @@ crm/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://git.upcode.in/upcode/crm-live-project-batch-9-frontend-c.git
+git clone https://github.com/abdmohd2003/CRM_fullstack
 cd crm
 ```
 
